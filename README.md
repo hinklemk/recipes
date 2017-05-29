@@ -19,8 +19,8 @@
    - 1 1/2 teaspoons fine sea salt
    - 1/4 cup tomato paste
    - 1 teaspoon tamari (gluten-free soy sauce)
-   - 1 1/2 cups cooked beans , or 1 (15-ounce) can beans, rinsed and drained (optional)</Sub>
-
+   - 1 1/2 cups cooked beans , or 1 (15-ounce) can beans, rinsed and drained (optional)
+</Sub>
 #### Instructions
 1. In a large 5.5-quart Dutch oven, melt the coconut oil over medium heat and sauté the onion, bell pepper, and celery until they start to soften, about 5 minutes. 
 ~~~~
