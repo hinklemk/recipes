@@ -1,8 +1,8 @@
 # Recipes
 ## [Healthy Creole-Style Cauliflower Jambalaya](http://detoxinista.com/2017/02/healthy-creole-style-cauliflower-jambalaya/)
 #### Ingredients
-
-<Sub>   - 1 tablespoon coconut oil
+<Sub>
+   - 1 tablespoon coconut oil
    - 1 yellow onion, chopped
    - 1 green bell pepper, chopped
    - 4 celery stalks, chopped 
