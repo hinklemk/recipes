@@ -19,12 +19,12 @@
 * 1 1/2 cups cooked beans , or 1 (15-ounce) can beans, rinsed and drained (optional)
 #### Instructions
 1. In a large 5.5-quart Dutch oven, melt the coconut oil over medium heat and sauté the onion, bell pepper, and celery until they start to soften, about 5 minutes. 
-~~~~
-   * 1 tablespoon coconut oil
-   * 1 yellow onion, chopped
-   * 1 green bell pepper, chopped
-   * 4 celery stalks, chopped 
-~~~~
+
+  > * 1 tablespoon coconut oil
+  > * 1 yellow onion, chopped
+  > * 1 green bell pepper, chopped
+  > * 4 celery stalks, chopped 
+
 2. Add the garlic, jalapeño, tomatoes, paprika, garlic powder, cayenne, and oregano and sauté until the tomatoes release their juices and cook down, about 5 minutes more.
 ~~~~
    - 3 cloves garlic, minced
